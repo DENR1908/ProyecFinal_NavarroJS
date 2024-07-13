@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "nombre": "Dolares",
+        "precio": 1240,
+        "img": "./img/dolares.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 2,
+        "nombre": "Peso Uruguayo",
+        "precio": 115,
+        "img": "./img/pesouruguayo.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 3,
+        "nombre": "EUROS",
+        "precio": 1340,
+        "img": "./img/euros.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 4,
+        "nombre": "Reales Brasileros",
+        "precio": 161,
+        "img": "./img/realesbrasil.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 5,
+        "nombre": "Libra Esterlina",
+        "precio": 1496,
+        "img": "./img/libraesterlina.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 6,
+        "nombre": "Bitcoin *Precio en Dolares*",
+        "precio": 69000,
+        "img": "./img/Bitcoin.jpg",
+        "cantidad": 1
+    }
+]
